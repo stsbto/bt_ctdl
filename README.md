@@ -1,3 +1,8 @@
+# câu 3
+
+![](img/cau3.png)
+![](img/cau3_dapan.png)
+
 # câu 4:
 
 ![](img/cau4.png)
