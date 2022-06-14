@@ -22,4 +22,4 @@ c) RLN
 25 22 18 8 2 1 3 9 19 31
 ```
 
-- cứ tới node nào thì lấy lấy node để tiếp tục để xép RLN
+- cứ tới node nào thì lấy node đó để tiếp tục để xét RLN
