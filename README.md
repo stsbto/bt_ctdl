@@ -7,6 +7,8 @@
 - sau đó đệ quy bên trái - đệ quy bên phải
 - đệ quy tới khi nào còn "1 phần tử"
 
+  _*(ko biết trình bày kiểu gì)*_
+
 # câu 3
 
 ![](img/cau3.png)
