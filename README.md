@@ -1,3 +1,12 @@
+# câu 2
+
+![](img/cau2.png)
+
+- chọn pivot là phần tử giữa
+- đẩy các phần tử nhỏ hơn pivot qua trái, lớn hơn qua phải
+- sau đó đệ quy bên trái - đệ quy bên phải
+- đệ quy tới khi nào còn "1 phần tử"
+
 # câu 3
 
 ![](img/cau3.png)
