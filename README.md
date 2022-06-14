@@ -1,9 +1,9 @@
 # câu 4:
 
-![](img\cau4.png)
+![](img/cau4.png)
 
 a)
-![](img\aaa.png)
+![](img/aaa.png)
 
 Cây tìm kiếm nhị phân có giá trị giảm dần từ NODE PHẢI tới NODE GỐC tới NODE TRÁI
 
