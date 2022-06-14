@@ -28,3 +28,7 @@ c) RLN
 ```
 
 - cứ tới node nào thì lấy node đó để tiếp tục để xét RLN
+
+# Câu 5
+
+![](img/cau5.png)
